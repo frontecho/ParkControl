@@ -15,9 +15,7 @@ def shot():
         cap.release()
         return ('static/' + ticks + '.jpg')
     except:     
-        # return None
-        # return 'static/Clip_20220503_011140.png'
-        return 'static/Clip_20220503_011131.png'
+        return None
 
 
 #识别，返回识别内容
