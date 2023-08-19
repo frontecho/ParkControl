@@ -3,7 +3,7 @@
 
 *代码功底不足，词句混乱，还可能包含一些问题，请多包涵*
 
-**演示视频**：[Click Here!](http://code.vqyt.cn:8001/)
+<strike> **演示视频**：[Click Here!](http://code.vqyt.cn:8001/) </strike>
 
 ### 系统功能说明
 1. 一套完整的车库闸门管理系统
